@@ -360,7 +360,8 @@ line-height: 24px;
 text-align: center;
 color: #000000;
 
-## OUTPUT:![image](https://github.com/jeeva078/Figma/assets/147048597/1169b78f-a737-4c53-8c2b-09f9e088ee28)
+## OUTPUT:![image](https://github.com/jeeva078/Figma/assets/147048597/00b9a682-f266-4f05-9053-e496048e302c)
+
 
 
 
