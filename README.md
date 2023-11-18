@@ -361,8 +361,6 @@ text-align: center;
 color: #000000;
 
 ## OUTPUT:![image](https://github.com/jeeva078/Figma/assets/147048597/1169b78f-a737-4c53-8c2b-09f9e088ee28)
-![image](https://github.com/jeeva078/Figma/assets/147048597/bc3ded65-8015-40c2-baa3-fcd010150f9b)
-![image](https://github.com/jeeva078/Figma/assets/147048597/266b4c32-84b2-4630-af0a-4b417780f857)
 
 
 
