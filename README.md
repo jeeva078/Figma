@@ -360,9 +360,12 @@ line-height: 24px;
 text-align: center;
 color: #000000;
 
-## OUTPUT:![image](https://github.com/jeeva078/Figma/assets/147048597/00b9a682-f266-4f05-9053-e496048e302c)
-
-
+## OUTPUT:
+```
+![image](https://github.com/jeeva078/Figma/assets/147048597/00b9a682-f266-4f05-9053-e496048e302c)
+![image](https://github.com/jeeva078/Figma/assets/147048597/e73dd5ef-b40c-432d-b917-5b98c59f88b9)
+![image](https://github.com/jeeva078/Figma/assets/147048597/75137a25-2084-4233-bd31-0b3c88a9e9e5)
+```
 
 
 
